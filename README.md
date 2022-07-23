@@ -1,4 +1,10 @@
-# bloody-spammer
+<h2 align="center">
+  Bloody-Spammer was made with
+
+Love ❌ code ✅
+
+</h2>
+
 A blazing fast Discord webhook spammer with proxy support coded by Bloody (me)
 This spammer auto scrapes proxies so no need to gather some yourself 
 
